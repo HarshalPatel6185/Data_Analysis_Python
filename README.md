@@ -27,7 +27,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 
 ##  Project Architecture & Deep-Dive Notebook Breakdown
 
-### 1. [Exploring Data Job Markets](Projects_Dataanalysis\1.ExploringthroughData.ipynb)
+### 1. [Exploring Data Job Markets](Projects_Dataanalysis/1.ExploringthroughData.ipynb)
 **Objective:** Map out macro-level hiring trends, prominent job hubs globally, and foundational perks offered across the tech industry.
 
 ####  Technical Workflow & Analysis:
@@ -43,11 +43,11 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
   - **Health Insurance Offerings**
 
 ####  Visual Output:
-![Top Data Roles & Market Parameters](/Projects_Dataanalysis\Images\1 company jobs offered.png)
+![Top Data Roles & Market Parameters](/Projects_Dataanalysis/Images/1 company jobs offered.png)
 
 ---
 
-### 2. [In-Demand Skills for Top Roles](Projects_Dataanalysis\2_Demandingskills.ipynb)
+### 2. [In-Demand Skills for Top Roles](Projects_Dataanalysis/2_Demandingskills.ipynb)
 **Objective:** Uncover the exact technical tools most frequently requested by recruiters for major data positions in the Indian tech market.
 
 ####  Technical Workflow & Analysis:
@@ -61,11 +61,11 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Allowed for targeted, role-specific learning paths based on exact market saturation metrics.
 
 ####  Visual Output:
-![In-Demand Skills Comparison](/Projects_Dataanalysis\Images\2.demanded skills.png)
+![In-Demand Skills Comparison](/Projects_Dataanalysis/Images/2.demanded skills.png)
 
 ---
 
-### 3. [Skill Trends Month-by-Month](Projects_Dataanalysis\3_SKill_Trends.ipynb)
+### 3. [Skill Trends Month-by-Month](Projects_Dataanalysis/3_SKill_Trends.ipynb)
 **Objective:** Track temporal shifts in skill requirements for data roles to map out long-term and seasonal tool demand.
 
 ####  Technical Workflow & Analysis:
@@ -79,11 +79,11 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Enabled data professionals to accurately predict shifts in skill trends across different quarters of the year.
 
 ####  Visual Output:
-![Monthly Skill Trends](Projects_Dataanalysis\Images\3.skills trends.png)
+![Monthly Skill Trends](Projects_Dataanalysis/Images/3.skills trends.png)
 
 ---
 
-### 4. [Salary Distributions by Job Role](/Projects_Dataanalysis\4.jobroles_SalaryAnalysis.ipynb)
+### 4. [Salary Distributions by Job Role](/Projects_Dataanalysis/4.jobroles_SalaryAnalysis.ipynb)
 **Objective:** Evaluate salary distributions and median compensation benchmarks for data roles in India.
 
 ####  Technical Workflow & Analysis:
@@ -99,11 +99,11 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Highlighted the baseline salary progression steps when leveling up from entry-level positions to specialized engineering roles.
 
 ####  Visual Output:
-![Salary Distributions by Role](/Projects_Dataanalysis\Images\4.salary distribution of diff jobs.png)
+![Salary Distributions by Role](/Projects_Dataanalysis/Images/4.salary distribution of diff jobs.png)
 
 ---
 
-### 5. [Optimal Skills to Learn](Projects_Dataanalysis\5.best_Skills.ipynb)
+### 5. [Optimal Skills to Learn](Projects_Dataanalysis/5.best_Skills.ipynb)
 **Objective:** Map out high-demand vs. high-paying technologies to identify high-ROI skills.
 
 ####  Technical Workflow & Analysis:
@@ -120,7 +120,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Pinpointed the most optimal skills to learn to maximize salary without sacrificing job volume.
 
 ####  Visual Output:
-![Skill Optimality Scatter Plot](/projects_Dataanalysis\Images\demanded salaries(popular + high paid).png)
+![Skill Optimality Scatter Plot](/projects_Dataanalysis/Images/demanded salaries(popular + high paid).png)
 
 ---
 
