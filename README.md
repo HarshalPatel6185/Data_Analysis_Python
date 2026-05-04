@@ -43,7 +43,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
   - **Health Insurance Offerings**
 
 ####  Visual Output:
-![Top Data Roles & Market Parameters](/Projects_Dataanalysis/Images/1 company jobs offered.png)
+![Top Data Roles & Market Parameters](Projects_Dataanalysis/Images/1 company jobs offered.png)
 
 ---
 
@@ -61,7 +61,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Allowed for targeted, role-specific learning paths based on exact market saturation metrics.
 
 ####  Visual Output:
-![In-Demand Skills Comparison](/Projects_Dataanalysis/Images/2.demanded skills.png)
+![In-Demand Skills Comparison](Projects_Dataanalysis/Images/2.demanded skills.png)
 
 ---
 
