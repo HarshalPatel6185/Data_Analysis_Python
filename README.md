@@ -61,7 +61,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Allowed for targeted, role-specific learning paths based on exact market saturation metrics.
 
 ####  Visual Output:
-![In-Demand Skills Comparison](Projects_Dataanalysis/Images/2.demanded skills.png)
+![In-Demand Skills Comparison](Projects_Dataanalysis/Images/2.demandedskills.png)
 
 ---
 
@@ -79,7 +79,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Enabled data professionals to accurately predict shifts in skill trends across different quarters of the year.
 
 ####  Visual Output:
-![Monthly Skill Trends](Projects_Dataanalysis/Images/3.skills trends.png)
+![Monthly Skill Trends](Projects_Dataanalysis/Images/3.skillstrends.png)
 
 ---
 
@@ -99,7 +99,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Highlighted the baseline salary progression steps when leveling up from entry-level positions to specialized engineering roles.
 
 ####  Visual Output:
-![Salary Distributions by Role](/Projects_Dataanalysis/Images/4.salary distribution of diff jobs.png)
+![Salary Distributions by Role](Projects_Dataanalysis/Images/4.salarydistributionofdiff jobs.png)
 
 ---
 
@@ -120,7 +120,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Pinpointed the most optimal skills to learn to maximize salary without sacrificing job volume.
 
 ####  Visual Output:
-![Skill Optimality Scatter Plot](/projects_Dataanalysis/Images/demanded salaries(popular + high paid).png)
+![Skill Optimality Scatter Plot](Projects_Dataanalysis/Images/5high_returns_skills.png)
 
 ---
 
