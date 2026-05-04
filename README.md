@@ -43,7 +43,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
   - **Health Insurance Offerings**
 
 ####  Visual Output:
-![Top Data Roles & Market Parameters](Projects_Dataanalysis\Images\1 company jobs offered.png)
+![Top Data Roles & Market Parameters](/Projects_Dataanalysis\Images\1 company jobs offered.png)
 
 ---
 
@@ -61,7 +61,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Allowed for targeted, role-specific learning paths based on exact market saturation metrics.
 
 ####  Visual Output:
-![In-Demand Skills Comparison](Projects_Dataanalysis\Images\2.demanded skills.png)
+![In-Demand Skills Comparison](/Projects_Dataanalysis\Images\2.demanded skills.png)
 
 ---
 
@@ -83,7 +83,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 
 ---
 
-### 4. [Salary Distributions by Job Role](Projects_Dataanalysis\4.jobroles_SalaryAnalysis.ipynb)
+### 4. [Salary Distributions by Job Role](/Projects_Dataanalysis\4.jobroles_SalaryAnalysis.ipynb)
 **Objective:** Evaluate salary distributions and median compensation benchmarks for data roles in India.
 
 ####  Technical Workflow & Analysis:
@@ -99,7 +99,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Highlighted the baseline salary progression steps when leveling up from entry-level positions to specialized engineering roles.
 
 ####  Visual Output:
-![Salary Distributions by Role](Projects_Dataanalysis\Images\4.salary distribution of diff jobs.png)
+![Salary Distributions by Role](/Projects_Dataanalysis\Images\4.salary distribution of diff jobs.png)
 
 ---
 
@@ -120,7 +120,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
 - Pinpointed the most optimal skills to learn to maximize salary without sacrificing job volume.
 
 ####  Visual Output:
-![Skill Optimality Scatter Plot](Projects_Dataanalysis\Images\demanded salaries(popular + high paid).png)
+![Skill Optimality Scatter Plot](/projects_Dataanalysis\Images\demanded salaries(popular + high paid).png)
 
 ---
 
