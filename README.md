@@ -43,7 +43,7 @@ Before proceeding with targeted visual analyses, a robust data extraction and cl
   - **Health Insurance Offerings**
 
 ####  Visual Output:
-![Top Data Roles & Market Parameters](Projects_Dataanalysis\Images\1companyjobsoffered.png)
+![Top Data Roles & Market Parameters](Projects_Dataanalysis/Images/1companyjobsoffered.png)
 
 ---
 
